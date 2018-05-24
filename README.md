@@ -2,7 +2,7 @@
 
 Welcome!
 
-Trillo is a site I made during learning Flexbox and it's properties.
+Trillo is a site I made while learning Flexbox and it's properties.
 
 Built with:
 - HTML5
